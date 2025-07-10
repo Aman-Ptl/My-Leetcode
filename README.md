@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0031-next-permutation) |
@@ -18,6 +19,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0031-next-permutation) |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0048-rotate-image) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
