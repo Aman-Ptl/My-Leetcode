@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
