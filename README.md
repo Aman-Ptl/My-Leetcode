@@ -14,6 +14,7 @@
 | [0049-group-anagrams](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0498-diagonal-traverse](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0498-diagonal-traverse) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0498-diagonal-traverse) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 ## Greedy
 |  |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0498-diagonal-traverse) |
 ## String
 |  |
 | ------- |
