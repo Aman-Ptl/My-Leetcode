@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0498-diagonal-traverse](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0498-diagonal-traverse) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Hash Table
@@ -80,6 +81,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0498-diagonal-traverse) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 ## String
 |  |
 | ------- |
