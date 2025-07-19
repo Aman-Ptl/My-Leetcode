@@ -18,6 +18,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0498-diagonal-traverse](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0724-find-pivot-index) |
+| [1018-largest-perimeter-triangle](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -48,6 +49,7 @@
 | [0016-3sum-closest](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0075-sort-colors) |
+| [1018-largest-perimeter-triangle](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Dynamic Programming
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0048-rotate-image) |
+| [1018-largest-perimeter-triangle](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [1018-largest-perimeter-triangle](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Simulation
 |  |
