@@ -24,6 +24,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2342-minimum-average-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2342-minimum-average-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0724-find-pivot-index) |
+| [2342-minimum-average-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2342-minimum-average-difference) |
 ## Sliding Window
 |  |
 | ------- |
