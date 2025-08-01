@@ -31,6 +31,7 @@
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2342-minimum-average-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2342-minimum-average-difference) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1018-largest-perimeter-triangle](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -120,6 +124,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0724-find-pivot-index) |
 | [2342-minimum-average-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2342-minimum-average-difference) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sliding Window
 |  |
 | ------- |
