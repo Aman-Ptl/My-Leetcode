@@ -27,6 +27,7 @@
 | [0777-toeplitz-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0864-image-overlap) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -44,6 +45,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0645-set-mismatch) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Two Pointers
 |  |
@@ -129,6 +131,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0724-find-pivot-index) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2342-minimum-average-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2342-minimum-average-difference) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sliding Window
