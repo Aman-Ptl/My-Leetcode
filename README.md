@@ -26,6 +26,7 @@
 | [0724-find-pivot-index](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0864-image-overlap) |
+| [0945-snakes-and-ladders](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -105,6 +106,7 @@
 | [0498-diagonal-traverse](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0864-image-overlap) |
+| [0945-snakes-and-ladders](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1324-where-will-the-ball-fall](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -147,6 +149,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Divide and Conquer
 |  |
