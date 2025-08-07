@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
@@ -167,4 +168,12 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1039-find-the-town-judge) |
+## Design
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
