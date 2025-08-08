@@ -35,6 +35,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1324-where-will-the-ball-fall](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1447-jump-game-iv](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1447-jump-game-iv) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2342-minimum-average-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2342-minimum-average-difference) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -49,6 +50,7 @@
 | [0645-set-mismatch](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0645-set-mismatch) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1039-find-the-town-judge) |
+| [1447-jump-game-iv](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1447-jump-game-iv) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Two Pointers
 |  |
@@ -152,6 +154,7 @@
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1447-jump-game-iv](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1447-jump-game-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
