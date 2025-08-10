@@ -39,6 +39,7 @@
 | [1447-jump-game-iv](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1447-jump-game-iv) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2342-minimum-average-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2342-minimum-average-difference) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@
 | [0048-rotate-image](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Matrix
 |  |
 | ------- |
