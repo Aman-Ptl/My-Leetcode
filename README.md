@@ -35,6 +35,7 @@
 | [1039-find-the-town-judge](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1039-find-the-town-judge) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1324-where-will-the-ball-fall](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1324-where-will-the-ball-fall) |
+| [1380-number-of-closed-islands](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1447-jump-game-iv](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1447-jump-game-iv) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -115,6 +116,7 @@
 | [0945-snakes-and-ladders](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1324-where-will-the-ball-fall](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1324-where-will-the-ball-fall) |
+| [1380-number-of-closed-islands](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Greedy
 |  |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1380-number-of-closed-islands](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1447-jump-game-iv](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1447-jump-game-iv) |
 ## Divide and Conquer
@@ -183,4 +186,12 @@
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Depth-First Search
+|  |
+| ------- |
+| [1380-number-of-closed-islands](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1380-number-of-closed-islands) |
+## Union Find
+|  |
+| ------- |
+| [1380-number-of-closed-islands](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1380-number-of-closed-islands) |
 <!---LeetCode Topics End-->
