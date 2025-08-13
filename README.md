@@ -39,6 +39,7 @@
 | [1380-number-of-closed-islands](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1447-jump-game-iv](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1447-jump-game-iv) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2342-minimum-average-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2342-minimum-average-difference) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
