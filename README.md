@@ -30,6 +30,7 @@
 | [0864-image-overlap](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0864-image-overlap) |
 | [0945-snakes-and-ladders](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0971-shortest-bridge](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0971-shortest-bridge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -118,6 +119,7 @@
 | [0777-toeplitz-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0864-image-overlap) |
 | [0945-snakes-and-ladders](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1324-where-will-the-ball-fall](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1324-where-will-the-ball-fall) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -196,6 +199,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0971-shortest-bridge](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Union Find
