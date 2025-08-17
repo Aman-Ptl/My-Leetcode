@@ -36,6 +36,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1039-find-the-town-judge](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1073-number-of-enclaves) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1324-where-will-the-ball-fall](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1380-number-of-closed-islands](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1380-number-of-closed-islands) |
@@ -58,6 +59,7 @@
 | [0645-set-mismatch](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0645-set-mismatch) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1039-find-the-town-judge) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1447-jump-game-iv](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1447-jump-game-iv) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Two Pointers
@@ -150,6 +152,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0389-find-the-difference) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -211,4 +214,8 @@
 | ------- |
 | [1073-number-of-enclaves](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1380-number-of-closed-islands) |
+## Counting
+|  |
+| ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 <!---LeetCode Topics End-->
