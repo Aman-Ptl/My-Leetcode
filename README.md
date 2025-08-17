@@ -112,6 +112,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1806-count-of-matches-in-tournament](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2032-largest-odd-number-in-string](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Matrix
 |  |
@@ -138,6 +139,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [2032-largest-odd-number-in-string](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Simulation
@@ -155,6 +157,7 @@
 | [0049-group-anagrams](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0389-find-the-difference) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Prefix Sum
 |  |
