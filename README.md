@@ -111,6 +111,7 @@
 | [0048-rotate-image](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1806-count-of-matches-in-tournament](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Matrix
 |  |
@@ -147,6 +148,7 @@
 | [0498-diagonal-traverse](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0498-diagonal-traverse) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1324-where-will-the-ball-fall](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1324-where-will-the-ball-fall) |
+| [1806-count-of-matches-in-tournament](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 ## String
 |  |
 | ------- |
