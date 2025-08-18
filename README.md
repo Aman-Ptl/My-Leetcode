@@ -28,6 +28,7 @@
 | [0724-find-pivot-index](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0864-image-overlap) |
+| [0898-transpose-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0971-shortest-bridge](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0971-shortest-bridge) |
@@ -124,6 +125,7 @@
 | [0498-diagonal-traverse](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0864-image-overlap) |
+| [0898-transpose-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1073-number-of-enclaves) |
@@ -148,6 +150,7 @@
 | [0054-spiral-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0498-diagonal-traverse) |
+| [0898-transpose-matrix](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1324-where-will-the-ball-fall](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1806-count-of-matches-in-tournament](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1806-count-of-matches-in-tournament) |
