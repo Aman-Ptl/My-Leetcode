@@ -73,6 +73,7 @@
 | [0042-trapping-rain-water](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0049-group-anagrams) |
+| [0344-reverse-string](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0389-find-the-difference) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2032-largest-odd-number-in-string) |
