@@ -1,6 +1,49 @@
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+# LeetCode Solutions (via LeetHub)
+
+This repository contains my **LeetCode problem-solving journey**, automatically synced   
+It showcases my daily practice, coding consistency, and solutions to problems across **Data Structures & Algorithms**.
+
+---
+
+## Repository Structure
+- Each file corresponds to a **LeetCode problem**.
+- Code is pushed automatically whenever I submit a solution on [LeetCode](https://leetcode.com/).
+- Languages used: **C++ / Python / JavaScript** (depending on problem).
+
+---
+
+## Progress Tracking
+- Total Problems Solved: 🚧 (auto-updated as I practice)  
+- Covers topics like:
+  - Arrays
+  - Strings
+  - Hashing
+  - Linked Lists
+  - Trees
+  - Graphs
+  - Dynamic Programming
+  - And more...
+
+---
+
+## Why This Repo?
+- To keep track of my problem-solving journey.  
+- To improve **DSA & coding interview preparation**.  
+- To showcase **consistency** and hands-on practice.  
+
+---
+
+## Note
+> These solutions are **auto-uploaded** via LeetHub.  
+> The main goal is to **track my progress** — not to provide editorial-quality code.  
+> For interview prep, focus on the **approach and logic**.
+
+
+⭐ If you find this helpful, give it a star and follow my journey.
+
 ## Array
 |  |
 | ------- |
