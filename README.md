@@ -56,6 +56,7 @@
 | [0036-valid-sudoku](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0645-set-mismatch) |
@@ -89,6 +90,7 @@
 | [0016-3sum-closest](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0645-set-mismatch) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0389-find-the-difference) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
