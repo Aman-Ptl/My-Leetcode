@@ -44,6 +44,7 @@
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1447-jump-game-iv](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1447-jump-game-iv) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1547-destination-city](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1547-destination-city) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2342-minimum-average-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2342-minimum-average-difference) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -62,6 +63,7 @@
 | [1039-find-the-town-judge](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1447-jump-game-iv](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1447-jump-game-iv) |
+| [1547-destination-city](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1547-destination-city) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Two Pointers
 |  |
@@ -162,6 +164,7 @@
 | [0344-reverse-string](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Aman-Ptl/My-Leetcode/tree/master/0389-find-the-difference) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1547-destination-city](https://github.com/Aman-Ptl/My-Leetcode/tree/master/1547-destination-city) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Aman-Ptl/My-Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Prefix Sum
